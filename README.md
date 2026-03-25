@@ -105,9 +105,9 @@ O site será aberto no navegador e todas as alterações poderão ser visualizad
 
 
 
-1. [Estrutura do HTML](./assets/docs/html.md)
-2. [Estilização com CSS](./assets/docs/css.md)
-3. [Script JS](./assets/docs/js.md)
+1. [Estrutura do HTML](./assets/docs/html/README.md)
+2. [Estilização com CSS](./assets/docs/css/README.md)
+3. [Script JS](./assets/docs/js/README.md)
 
 ---
 
