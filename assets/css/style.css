@@ -403,6 +403,7 @@ header a:hover {
 }
 
 .project-content p {
+  flex: 1;
   margin-bottom: var(--spacing-sm);
   font-size: var(--text-base);
   color: var(--gray-400)
