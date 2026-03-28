@@ -90,7 +90,7 @@ async function getProjectsGitHub() {
 	try {
 		// Requisição do tipo GET para a API do GitHub
 		const resposta = await fetch(
-			'https://api.github.com/users/rafaelq80/repos?sort=updated&per_page=6',
+			'https://api.github.com/users/rafaelq80/repos?sort=pushed&per_page=6',
 		)
 
 		// Converter a Resposta para JSON
